@@ -8,6 +8,10 @@ const items = [
 		name: "progressbar",
 		sub: ["default", "custom"],
 	},
+	{
+		name: "radio",
+		sub: ["default", "custom"],
+	},
 ]
 </script>
 
