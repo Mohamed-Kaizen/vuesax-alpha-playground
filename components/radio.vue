@@ -165,7 +165,7 @@ watch(
 	border: 0;
 
 	&:focus-visible {
-		outline: var(--vs--radio-outline-width, 4px) var(--vs--radio-outline-style, solidasd)
+		outline: var(--vs--radio-outline-width, 4px) var(--vs--radio-outline-style, solid)
 			var(--vs--radio-outline-color, var(--vs--radio-color, rgba(25, 91, 255, 0.5)));
 
 		outline-offset: var(--vs--radio-outline-offset, 2px);
