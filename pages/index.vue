@@ -4,8 +4,13 @@ const items = [
 		name: "switch",
 		sub: ["default", "custom"],
 	},
+	{
+		name: "progressbar",
+		sub: ["default", "custom"],
+	},
 ]
 </script>
+
 <template>
 	<ul>
 		<li v-for="(item, index) in items" :key="index">
